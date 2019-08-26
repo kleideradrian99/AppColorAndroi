@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cambiar Fondos app</string>
+    <string name="btnAmarillo">AMARILLO</string>
+    <string name="btnRojo">ROJO</string>
+    <string name="btnAzul">AZUL</string>
+    <string name="btnVerde">VERDE</string>
+
+</resources>
